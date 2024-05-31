@@ -31,3 +31,15 @@ body {
     text-wrap: balance;
   }
 }
+input{
+  outline: none;
+  border: 1px solid, rgb(81, 152, 64);
+  border-radius: 0;
+  background-color: transparent;
+  padding: 4px;
+  margin: 0;
+  color: rgb(81, 152, 64);
+  font-size: 1rem;
+  line-height: 1.5rem;
+  width: 100%;
+}
